@@ -3,7 +3,7 @@
 
 
 - 👩🏽‍💻 Atualmente, estou desenvolvendo meu TCC
-- 🌱 Aprendendo: Spring boot, Java
+- 🌱 Aprendendo: Spring boot, Java, JavaScript, Framework Yii2
 - 📚 Cursando: Tecnologia em Análise e Desenvolvimento de Sistemas
 - 📫 Contato: nathy.felix.31@gmail.com
 
