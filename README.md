@@ -4,7 +4,7 @@
 
 - 💻 Atualmente, estou desenvolvendo meu TCC
 - 👩‍💻 Estagiária na RBA Digital
-- 🌱 Aprendendo: Spring boot, Java, JavaScript
+- 🌱 Aprendendo: Spring boot, Java, JavaScript, Angular
 - 📚 Cursando: Tecnologia em Análise e Desenvolvimento de Sistemas
 - 📫 Contato: nathy.felix.31@gmail.com
 
