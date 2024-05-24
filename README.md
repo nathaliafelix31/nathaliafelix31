@@ -4,7 +4,7 @@
 
 
 - 👩‍💻 Desenvolvedora Júnior
-- 🌱 Aprendendo: Angular, Spring boot, Java, JavaScript 
+- 🌱 Aprendendo: Spring boot, Java, JavaScript 
 - 📚 Formada em Análise e Desenvolvimento de Sistemas
 - 📫 Contato: nathy.felix.31@gmail.com
 
